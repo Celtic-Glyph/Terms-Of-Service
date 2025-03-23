@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Korona+One&display=swap');
+
+h1 {
+    font-family: 'Korona One', sans-serif;
+    font-weight: 780;
+    font-style: bold;
+    text-align: center;
+}
+
+p {
+    font-family: "Cousine", monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    text-align: center;
+}
+
+element {
+    font-family: "Cousine", monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.Introduction {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h3 {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
